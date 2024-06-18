@@ -5,7 +5,7 @@ This tool is used to encrypt and decrypt files using `Fernet` in Python.
 ```sh
 $ git clone https://github.com/Mohaned2023/FileEncryption.git
 $ cd FileEncryption 
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 $ python main.py --help
 ```
 
